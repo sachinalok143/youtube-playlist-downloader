@@ -27,4 +27,4 @@
 
  
  
-      youtube-dl PLAYLISTID [PATH/To/DIRECTORY]
+      youtube-dl PLAYLIST_ID [PATH/To/DIRECTORY]
